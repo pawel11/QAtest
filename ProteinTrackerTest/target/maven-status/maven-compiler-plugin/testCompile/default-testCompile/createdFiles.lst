@@ -1,0 +1,9 @@
+com\tests\ParameterizedTests.class
+com\tests\TrackingServiceTheories.class
+com\tests\GoodTestSuite.class
+com\tests\ProteinTrackerSuite.class
+com\tests\TestCase.class
+com\tests\GoodTestCategory.class
+com\tests\ConsoleRunner.class
+com\tests\BadTestCategory.class
+com\tests\TrackingServiceTest.class
